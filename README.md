@@ -1,0 +1,4 @@
+- 👋 Hi, I’m adriel
+- 👀 I’m interested in larning
+- 🌱 I’m currently learning github
+- 💞️ I’m looking to collaborate on classrom
